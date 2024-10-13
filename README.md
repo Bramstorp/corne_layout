@@ -1,7 +1,7 @@
 # corne_layout
 
 ## base
-![image](https://github.com/Bramstorp/corne_layout/assets/50810755/1d6f33fc-4168-4780-a165-ba47e04cf791)
+![image](![image](https://github.com/user-attachments/assets/1f3f36b3-bb1a-4778-8d52-b3dde5317555))
 
 ## Lower (MO1)
 ![image](https://github.com/Bramstorp/corne_layout/assets/50810755/7432ff4a-9ff3-44aa-82e1-e20ce656e038)
